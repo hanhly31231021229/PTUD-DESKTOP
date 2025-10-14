@@ -1,0 +1,16 @@
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\bin\Debug\net8.0-windows\BT4.exe
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\bin\Debug\net8.0-windows\BT4.deps.json
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\bin\Debug\net8.0-windows\BT4.runtimeconfig.json
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\bin\Debug\net8.0-windows\BT4.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\bin\Debug\net8.0-windows\BT4.pdb
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\obj\Debug\net8.0-windows\BT4.Form1.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\obj\Debug\net8.0-windows\BT4.csproj.GenerateResource.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\obj\Debug\net8.0-windows\BT4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\obj\Debug\net8.0-windows\BT4.AssemblyInfoInputs.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\obj\Debug\net8.0-windows\BT4.AssemblyInfo.cs
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\obj\Debug\net8.0-windows\BT4.csproj.CoreCompileInputs.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\obj\Debug\net8.0-windows\BT4.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\obj\Debug\net8.0-windows\refint\BT4.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\obj\Debug\net8.0-windows\BT4.pdb
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\obj\Debug\net8.0-windows\BT4.genruntimeconfig.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT4\obj\Debug\net8.0-windows\ref\BT4.dll
