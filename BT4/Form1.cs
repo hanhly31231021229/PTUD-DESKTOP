@@ -9,14 +9,11 @@
 
         private void txtSo1_TextChanged(object sender, EventArgs e)
         {
-            // Gán sự kiện cho các nút
             btnCong.Click += BtnCong_Click;
             btnTru.Click += BtnTru_Click;
             btnNhan.Click += BtnNhan_Click;
             btnChia.Click += BtnChia_Click;
             btnDel.Click += BtnDel_Click;
-
-            // Gán sự kiện kiểm tra nhập liệu
             txtSo1.KeyPress += TxtSo_KeyPress;
             txtSo2.KeyPress += TxtSo_KeyPress;
         }
@@ -24,7 +21,7 @@
         {
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
-                e.Handled = true; // chặn ký tự không hợp lệ
+                e.Handled = true;
             }
         }
 
@@ -77,3 +74,4 @@
         }
     }
 }
+
