@@ -39,58 +39,37 @@
             btnThoat = new Button();
             groupChon.SuspendLayout();
             SuspendLayout();
-            // 
-            // lblA
-            // 
             lblA.AutoSize = true;
             lblA.Location = new Point(30, 30);
             lblA.Name = "lblA";
             lblA.Size = new Size(22, 20);
             lblA.TabIndex = 0;
             lblA.Text = "A:";
-            // 
-            // lblB
-            // 
             lblB.AutoSize = true;
             lblB.Location = new Point(30, 70);
             lblB.Name = "lblB";
             lblB.Size = new Size(21, 20);
             lblB.TabIndex = 1;
             lblB.Text = "B:";
-            // 
-            // lblKetQua
-            // 
             lblKetQua.AutoSize = true;
             lblKetQua.Location = new Point(30, 120);
             lblKetQua.Name = "lblKetQua";
             lblKetQua.Size = new Size(60, 20);
             lblKetQua.TabIndex = 5;
             lblKetQua.Text = "Kết quả";
-            // 
-            // txtA
-            // 
             txtA.Location = new Point(70, 27);
             txtA.Name = "txtA";
             txtA.Size = new Size(150, 27);
             txtA.TabIndex = 2;
-            // 
-            // txtB
-            // 
             txtB.Location = new Point(70, 67);
             txtB.Name = "txtB";
             txtB.Size = new Size(150, 27);
             txtB.TabIndex = 3;
-            // 
-            // txtKetQua
-            // 
             txtKetQua.Location = new Point(90, 117);
             txtKetQua.Name = "txtKetQua";
             txtKetQua.ReadOnly = true;
             txtKetQua.Size = new Size(150, 27);
             txtKetQua.TabIndex = 6;
-            // 
-            // groupChon
-            // 
             groupChon.Controls.Add(rdbBSCNN);
             groupChon.Controls.Add(rdbUSCLN);
             groupChon.Location = new Point(250, 20);
@@ -99,54 +78,36 @@
             groupChon.TabIndex = 4;
             groupChon.TabStop = false;
             groupChon.Text = "Chọn tìm";
-            // 
-            // rdbBSCNN
-            // 
             rdbBSCNN.AutoSize = true;
             rdbBSCNN.Location = new Point(15, 50);
             rdbBSCNN.Name = "rdbBSCNN";
             rdbBSCNN.Size = new Size(78, 24);
             rdbBSCNN.TabIndex = 0;
             rdbBSCNN.Text = "BSCNN";
-            // 
-            // rdbUSCLN
-            // 
             rdbUSCLN.AutoSize = true;
             rdbUSCLN.Location = new Point(15, 25);
             rdbUSCLN.Name = "rdbUSCLN";
             rdbUSCLN.Size = new Size(75, 24);
             rdbUSCLN.TabIndex = 1;
             rdbUSCLN.Text = "USCLN";
-            // 
-            // btnTim
-            // 
             btnTim.Location = new Point(50, 160);
             btnTim.Name = "btnTim";
             btnTim.Size = new Size(80, 30);
             btnTim.TabIndex = 7;
             btnTim.Text = "Tìm";
             btnTim.UseVisualStyleBackColor = true;
-            // 
-            // btnBoQua
-            // 
             btnBoQua.Location = new Point(150, 160);
             btnBoQua.Name = "btnBoQua";
             btnBoQua.Size = new Size(80, 30);
             btnBoQua.TabIndex = 8;
             btnBoQua.Text = "Bỏ qua";
             btnBoQua.UseVisualStyleBackColor = true;
-            // 
-            // btnThoat
-            // 
             btnThoat.Location = new Point(250, 160);
             btnThoat.Name = "btnThoat";
             btnThoat.Size = new Size(80, 30);
             btnThoat.TabIndex = 9;
             btnThoat.Text = "Thoát";
             btnThoat.UseVisualStyleBackColor = true;
-            // 
-            // Form1
-            // 
             ClientSize = new Size(400, 220);
             Controls.Add(lblA);
             Controls.Add(lblB);
@@ -167,3 +128,4 @@
         }
     }
 }
+
