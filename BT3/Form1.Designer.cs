@@ -22,18 +22,12 @@
             btnHienThi = new Button();
             btnThoat = new Button();
             SuspendLayout();
-            // 
-            // txtNoiDung
-            // 
             txtNoiDung.Location = new Point(40, 50);
             txtNoiDung.Margin = new Padding(3, 4, 3, 4);
             txtNoiDung.Name = "txtNoiDung";
             txtNoiDung.Size = new Size(300, 27);
             txtNoiDung.TabIndex = 0;
             txtNoiDung.TextChanged += txtNoiDung_TextChanged;
-            // 
-            // btnHienThi
-            // 
             btnHienThi.Location = new Point(40, 112);
             btnHienThi.Margin = new Padding(3, 4, 3, 4);
             btnHienThi.Name = "btnHienThi";
@@ -41,9 +35,6 @@
             btnHienThi.TabIndex = 1;
             btnHienThi.Text = "Hiển thị";
             btnHienThi.UseVisualStyleBackColor = true;
-            // 
-            // btnThoat
-            // 
             btnThoat.Location = new Point(220, 112);
             btnThoat.Margin = new Padding(3, 4, 3, 4);
             btnThoat.Name = "btnThoat";
@@ -51,9 +42,6 @@
             btnThoat.TabIndex = 2;
             btnThoat.Text = "Thoát";
             btnThoat.UseVisualStyleBackColor = true;
-            // 
-            // Form1
-            // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(400, 225);
@@ -68,3 +56,4 @@
         }
     }
 }
+
