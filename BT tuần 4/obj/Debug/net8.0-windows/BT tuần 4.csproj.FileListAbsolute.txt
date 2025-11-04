@@ -1,0 +1,32 @@
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT tuần 4.csproj.AssemblyReference.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT_tuần_4.Form1.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT tuần 4.csproj.GenerateResource.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT tuần 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT tuần 4.AssemblyInfoInputs.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT tuần 4.AssemblyInfo.cs
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT tuần 4.csproj.CoreCompileInputs.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\bin\Debug\net8.0-windows\BT tuần 4.exe
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\bin\Debug\net8.0-windows\BT tuần 4.deps.json
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\bin\Debug\net8.0-windows\BT tuần 4.runtimeconfig.json
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\bin\Debug\net8.0-windows\BT tuần 4.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\bin\Debug\net8.0-windows\BT tuần 4.pdb
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT tuần 4.csproj.Up2Date
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT tuần 4.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\refint\BT tuần 4.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT tuần 4.pdb
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT tuần 4.genruntimeconfig.cache
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\ref\BT tuần 4.dll
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT_tuần_4.PhanTrang.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT_tuần_4.QuanLySanPham.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT_tuần_4.ComboBox.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT_tuần_4.ListBox.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT_tuần_4.DataGridView.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT_tuần_4.Filter.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT_tuần_4.FormMenu.resources
+D:\Đẩy từ C qua D cho bớt nặng\VS\BT tuần 4\obj\Debug\net8.0-windows\BT_tuần_4.TreeView.resources
