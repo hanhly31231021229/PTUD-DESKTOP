@@ -1,4 +1,4 @@
-﻿namespace BT_tuần_4
+namespace BT_tuần_4
 {
     partial class FormMenu
     {
@@ -6,7 +6,7 @@
         private Panel panelMenu;
         private Panel panelMain;
         private Button btnListBox, btnComboBox, btnDataGridView, btnFilter, btnTreeView, btnPhanTrang, btnQuanLySanPham, btnThoat;
-
+        private Button btnAbout;
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null)) components.Dispose();
@@ -15,6 +15,7 @@
 
         private void InitializeComponent()
         {
+
             this.panelMenu = new Panel();
             this.panelMain = new Panel();
             this.btnListBox = new Button();
@@ -24,6 +25,7 @@
             this.btnTreeView = new Button();
             this.btnPhanTrang = new Button();
             this.btnQuanLySanPham = new Button();
+            this.btnAbout = new Button();
             this.btnThoat = new Button();
 
             // ===== Form =====
@@ -50,17 +52,17 @@
 
             Button[] buttons = {
                 btnListBox, btnComboBox, btnDataGridView, btnFilter,
-                btnTreeView, btnPhanTrang, btnQuanLySanPham, btnThoat
+                btnTreeView, btnPhanTrang, btnQuanLySanPham,btnAbout, btnThoat
             };
             string[] texts = {
                 "ListBox", "ComboBox", "DataGridView",
                 "Filter","TreeView", "Phân Trang",
-                "Quản Lý Sản Phẩm", "Thoát"
+                "Quản Lý Sản Phẩm","About", "Thoát"
             };
             EventHandler[] handlers = {
                 btnListBox_Click, btnComboBox_Click, btnDataGridView_Click,
                 btnFilter_Click, btnTreeView_Click, btnPhanTrang_Click,
-                btnQuanLySanPham_Click, btnThoat_Click
+                btnQuanLySanPham_Click,btnAbout_Click, btnThoat_Click
             };
 
             int top = 20;
