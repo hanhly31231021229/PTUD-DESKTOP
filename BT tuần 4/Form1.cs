@@ -10,7 +10,7 @@ namespace BT_tuần_4
     public partial class Form1 : Form
     {
         // Chuỗi kết nối
-        string strConnectionString = "Data Source = LAPTOP-Q7DB2USJ\\SQLEXPRESS; Initial Catalog = QLBH; Integrated Security=True; ";
+        string strConnectionString = "Data Source = LAPTOP-Q7DB2USJ\\SQLEXPRESS; Initial Catalog = QLBH; Integrated Security=True;TrustServerCertificate=True ";
         // Đối tượng kết nối dữ liệu
         SqlConnection conn = null;
         // Đối tượng thực hiện vận chuyển dữ liệu  
@@ -59,3 +59,4 @@ namespace BT_tuần_4
         }
     }
 }
+
