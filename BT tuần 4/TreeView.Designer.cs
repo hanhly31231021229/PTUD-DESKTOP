@@ -1,4 +1,4 @@
-﻿using System.Windows.Forms;
+using System.Windows.Forms;
 namespace BT_tuần_4
 {
     partial class TreeView
@@ -50,7 +50,7 @@ namespace BT_tuần_4
             dgSanPham.Location = new Point(241, 58);
             dgSanPham.Name = "dgSanPham";
             dgSanPham.RowHeadersWidth = 51;
-            dgSanPham.Size = new Size(519, 299);
+            dgSanPham.Size = new Size(703, 299);
             dgSanPham.TabIndex = 1;
             // 
             // label1
@@ -75,7 +75,7 @@ namespace BT_tuần_4
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(971, 428);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(dgSanPham);
