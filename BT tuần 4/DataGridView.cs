@@ -14,7 +14,7 @@ namespace BT_tuần_4
     public partial class DataGridView : Form
     {
         //Chuỗi kết nối
-        string strConnectionString = "Data Source = LAPTOP-Q7DB2USJ\\SQLEXPRESS; Initial Catalog = QLBH; Integrated Security=True; User Id =sa; Password = 123456";
+        string strConnectionString = "Data Source = LAPTOP-Q7DB2USJ\\SQLEXPRESS; Initial Catalog = QLBH; Integrated Security=True;TrustServerCertificate=True; User Id =sa; Password = 123456";
         // Đối tượng kết nối dữ liệu
         SqlConnection conn = null;
         // Đối tượng thực hiện vận chuyển dữ liệu  
@@ -109,3 +109,4 @@ namespace BT_tuần_4
         }
     }
 }
+
